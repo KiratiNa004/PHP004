@@ -18,10 +18,11 @@
         <li> <a href="W02_01_oddEvenNumber.php">Odd-Even-number</a></li>
         <li> <a href="W02_02_grade.php">Calculater Grade</a></li>
         <li> <a href="calculate_monney.php">Calculater Grade 01</a></li>
+        <li> <a href="W06_01_loopProduct.php">Show Product (fix Data)</a></li>
+        <li> <a href="">Connect Databsse</a></li>
+        <li> <a href="">Show product (From Database)</a></li>
+
     </ul>
-
-
-
 </body>
 
 </html>
