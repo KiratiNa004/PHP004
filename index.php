@@ -19,7 +19,8 @@
         <li> <a href="W02_02_grade.php">Calculater Grade</a></li>
         <li> <a href="calculate_monney.php">Calculater Grade 01</a></li>
         <li> <a href="W06_01_loopProduct.php">Show Product (fix Data)</a></li>
-        <li> <a href="">Connect Databsse</a></li>
+        <li> <a href="W07_01_connectDB.php">Connect Databsse</a></li>
+        <li> <a href="W07_02_fatchData.php">fatch Data</a></li>
         <li> <a href="">Show product (From Database)</a></li>
 
     </ul>
